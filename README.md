@@ -73,4 +73,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-This script uses the [OpenAQ API](https://docs.openaq.org/) to retrieve air quality data.
+This script uses a **modified** [OpenAQ API](https://docs.openaq.org/) to retrieve air quality data.
